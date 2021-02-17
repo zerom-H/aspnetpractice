@@ -85,3 +85,5 @@ D:\devlec_demo\aspnetcore\Welfare\Welfare\obj\Debug\net5.0\Welfare.pdb
 D:\devlec_demo\aspnetcore\Welfare\Welfare\obj\Debug\net5.0\Welfare.genruntimeconfig.cache
 D:\devlec_demo\aspnetcore\Welfare\Welfare\obj\Debug\net5.0\Razor\Views\Dashboard\Index.cshtml.g.cs
 D:\devlec_demo\aspnetcore\Welfare\Welfare\obj\Debug\net5.0\Razor\Views\Children\Index.cshtml.g.cs
+D:\devlec_demo\aspnetcore\Welfare\Welfare\obj\Debug\net5.0\Razor\Views\Guardians\Index.cshtml.g.cs
+D:\devlec_demo\aspnetcore\Welfare\Welfare\obj\Debug\net5.0\Razor\Views\Guardians\Details.cshtml.g.cs
