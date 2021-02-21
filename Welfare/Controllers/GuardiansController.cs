@@ -17,7 +17,6 @@ namespace Welfare.Controllers
         {
             ViewData["Id"] = id;
 
-
             return View();
         }
     }
