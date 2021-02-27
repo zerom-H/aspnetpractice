@@ -15,6 +15,7 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\lib\material-design-lite\" />
+    <Folder Include="wwwroot\lib\mdl-selectfield\" />
   </ItemGroup>
 
 </Project>
